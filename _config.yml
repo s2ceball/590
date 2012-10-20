@@ -11,17 +11,17 @@ course:
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
   base_path:
   # E.g., ENGL 536
-  number:
-  name:
+  number: Eng590
+  name: Pedagogy Seminar
   # Keep the description brief, about 140 chars
-  description:
+  description: A doctoral seminar in pedagogy for PhD students in English Studies
   # E.g., Spring 2013:
-  term:
+  term: Summer 2013
   instructor:
-    name:
-    office:
-    office_hours:
-    email:
-    phone:
+    name: Dr. Cheryl E. Ball
+    office: STV 421n and online
+    office_hours: by appointment
+    email: s2ceball@gmail.com
+    phone: n/a
     # No @ before your username; e.g., twitter, not @twitter
-    twitter:
+    twitter: s2ceball
