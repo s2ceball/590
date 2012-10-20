@@ -9,7 +9,7 @@ course:
   # or if your site is hosted at a simple URL like http://example.com/
   # But, if something comes after the .com/, you should enter it here.
   # E.g., for http://example.com/530/ you'd enter 530/ for base_path:
-  base_path:
+  base_path: 590/
   # E.g., ENGL 536
   number: Eng590
   name: Pedagogy Seminar
